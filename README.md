@@ -13,7 +13,7 @@
 
      **Key Features:**
 
-     Transaction Type (e.g., PAYMENT, TRANSFER, CASH_OUT)
+     Transaction Type (e.g.,PAYMENT, TRANSFER, CASH_OUT)
 
      **Transaction Amount**
 
